@@ -24,14 +24,14 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Analog and Digital Design", "icon": "fas fa-heart-pulse", "level": 80},
+        {"name": "MATLAB/Simulink", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 75},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
         {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+	{"name": "Problem Solving & Analytical", "icon": "fas fa-list-check", "level": 90},
+	{"name": "Teamwork & Collaboration", "icon": "fas fa-pen", "level": 95},
+	{"name": "Adaptability", "icon": "fas fa-language", "level": 90}
     ]
 }
