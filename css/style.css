@@ -165,7 +165,7 @@ header {
     width: 100%;
     max-width: 300px;
     height: auto;
-    aspect-ratio: 1/1;
+    aspect-ratio: 3/4;
     border-radius: 10%;
     object-fit: cover;
     #border: 5px solid var(--primary-color);
