@@ -1,11 +1,4 @@
 [
-    {
-        "company": "Daily Construction Worker (Freelance Project)",
-		"logo":"images/construction.jpg",
-        "position": "laborer",
-        "year": "2019 - 2022",
-        "description": "Assisted in the construction of residential houses, store renovations, and light structural work, Performed tasks such as mixing cement, transporting materials, bricklaying, and concrete pouring, Worked collaboratively in a team of skilled workers to complete projects on time, Experienced in working under outdoor conditions while following proper safety procedures (K3)."
-    },
 	{
         "company": "PT. Ciptatani Kumai Sejahtera (MEDCO AGRO GROUP)",
 		"logo":"images/medco.jpg",
@@ -14,3 +7,4 @@
         "description": "Rotated through plantation, mill, and laboratory units to understand the full palm oil value chain, assisting with harvesting and crop management in the field, and observing all processing stages in the mill—from TBS reception to CPO production—while monitoring key parameters like temperature and pressure.."
     }
 ]
+
