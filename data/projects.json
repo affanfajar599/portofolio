@@ -1,13 +1,13 @@
 [
     {
-        "title": "pembuatan robot line follower",
-        "year": "2025",
-        "fund": "$18 NSF Grant",
-        "partner": "kelompok projects",
+        "title": "making a line follower robot",
+        "year": "2024",
+        "fund": "$8,94",
+        "partner": "projects group",
         "role": "Member",
         "description": "The creation of a line follower where the microcontroller is self-designed using the ATmega328P IC.",
         "image": "images/project1.png",
-        "link": "https://example.com/solar-water"
+        "link": ""
     },
 	{
         "title": "Penelitian Tesis Magister: Activity Recognition",
@@ -20,6 +20,7 @@
         "link": "https://example.com/solar-water"
 	}
 ]
+
 
 
 
