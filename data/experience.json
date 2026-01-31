@@ -1,10 +1,18 @@
 [
 	{
+        "company": "Politeknik Negeri Semarang",
+		"logo":"images/medco.jpg",
+        "position": "Faculty Research Member",
+        "year": "2025",
+        "description": "Involved in the development of electronic-based smart farming systems, Using Hiwell HMI for monitoring and visualizing system data, Implementing Arduino OPTA as a control system controller, Integrating Wireless Sensor Network (WSN) for sensor data acquisition, Conducting functional testing and field testing of the system."
+    },
+	{
         "company": "PT. Ciptatani Kumai Sejahtera (MEDCO AGRO GROUP)",
 		"logo":"images/medco.jpg",
         "position": "internship",
         "year": "2020",
-        "description": "Rotated through plantation, mill, and laboratory units to understand the full palm oil value chain, assisting with harvesting and crop management in the field, and observing all processing stages in the mill—from TBS reception to CPO production—while monitoring key parameters like temperature and pressure.."
+        "description": "Rotated through plantation, mill, and laboratory units to understand the full palm oil value chain, assisting with harvesting and crop management in the field, and observing all processing stages in the mill—from TBS reception to CPO production—while monitoring key parameters like temperature and pressure."
     }
 ]
+
 
