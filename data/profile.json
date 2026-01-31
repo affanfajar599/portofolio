@@ -20,7 +20,7 @@
     ],
     "cv": {
 			"text": "Download CV",
-			"file": "docs/CV.pdf",
+			"file": "docs/CV Muhammad Affan Alif Fajar.pdf",
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
@@ -35,5 +35,6 @@
 	{"name": "Adaptability", "icon": "fas fa-language", "level": 90}
     ]
 }
+
 
 
